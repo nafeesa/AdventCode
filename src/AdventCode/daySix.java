@@ -99,7 +99,9 @@ public class daySix {
 			}
 		}
 
+		int x = 123&456;
 		System.out.println(countLights(lights));
+		System.out.println(x);
 
 	}
 }
