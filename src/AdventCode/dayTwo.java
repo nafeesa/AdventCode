@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public class dayTwo {
 	
-	static File file = new File("C:\\Users\\nafee_000\\Documents\\Projects\\AdventCode\\src\\AdventCode\\input");
+	static File file = new File("C:\\Users\\nafee_000\\Documents\\Projects\\AdventCode\\src\\AdventCode\\dayTwoInput");
     
 	static String test1 = "29x13x26";
 	static String test2 = "2x3x4";
